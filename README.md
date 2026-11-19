@@ -40,9 +40,9 @@ A Python-based desktop application that converts PDF files into editable Word do
 
 python pdf_word.py
 
-## Application Screenshot
+## Application Image
 
-![PDF and Word Converter](image/app.png)
+![PDF and Word Converter](app.png)
 
 ## Usage
 
